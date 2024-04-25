@@ -6,13 +6,13 @@
 > Hive Underground custom stage to apply for Team Reptile.
 
 > <ins>**Bomb Rush Cyberfunk Environment Artist for Team Reptile**</ins> <sup>2020</sup> <br>
-> Worked almost two years with the team mostly on environment but also on some pedestrians animations and shader stuff.
+> Worked two years with the team mostly on environment but also on some pedestrians animations and shader stuff.
 
-> <ins>**DripRemix**</ins> <sup>2022</sup> <br>
-> A Bomb Rush Cyberfunk mod for swapping models and textures in-game.
-
-> <ins>**3D Avatar Commissions**</ins> <sup>2022</sup> <br>
+> <ins>**3D Avatar Commissions**</ins> <sup>2023</sup> <br>
 > Models, shaders and textures for my in-development application VADisplay 1.0, not released for public.
+
+> <ins>**DripRemix**</ins> <sup>2023</sup> <br>
+> A Bomb Rush Cyberfunk mod for swapping models and textures in-game.
 
 > <ins>**DevilDare**</ins> <sup>2024</sup> <br>
 > Small Godot project about boosting yourself by tracking a score during a game session.
