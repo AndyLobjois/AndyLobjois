@@ -17,7 +17,4 @@
 > <ins>**DevilDare**</ins> <sup>2024</sup> <br>
 > Small Godot project about boosting yourself by tracking a score during a game session.
 
-> <ins>**VADisplay 2.0 for public release (Currently in development)**</ins> <sup>2024</sup> <br>
-> VADisplay (Virtual Avatar Display) is a 3D avatar display for video/stream with minimal equipments : Mouse, Keyboard, Gamepad and Microphone.
-
 </i>
