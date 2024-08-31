@@ -8,13 +8,17 @@
 > <ins>**Bomb Rush Cyberfunk Environment Artist for Team Reptile**</ins> <sup>2020</sup> <br>
 > Worked two years with the team mostly on environment but also on some pedestrians animations and shader stuff.
 
-> <ins>**3D Avatar Commissions**</ins> <sup>2023</sup> <br>
-> Models, shaders and textures for my in-development application VADisplay 1.0, not released for public.
+> <ins>**VADisplay**</ins> <sup>2023</sup> <br>
+> 3D Avatar application with minimal devices (mouse & keyboard, gamepad, microphone).<br>
+> Canceled in favor of Warudo.
 
 > <ins>**DripRemix**</ins> <sup>2023</sup> <br>
 > A Bomb Rush Cyberfunk mod for swapping models and textures in-game.
 
 > <ins>**DevilDare**</ins> <sup>2024</sup> <br>
 > Small Godot project about boosting yourself by tracking a score during a game session.
+
+> <ins>**3D Model Commissions**</ins> <sup>2023-2024</sup> <br>
+> Models, shaders, textures and animations for Warudo, VRChat, Lethal League Blaze, Bomb Rush Cyberfunk and Street Fighter 6.
 
 </i>
