@@ -21,4 +21,7 @@
 > <ins>**3D Model Commissions**</ins> <sup>2023-2024</sup> <br>
 > Models, shaders, textures and animations for Warudo, VRChat, Lethal League Blaze, Bomb Rush Cyberfunk and Street Fighter 6.
 
+> <ins>**Minois**</ins> <sup>2024-2025</sup> <br>
+> Plugin for Warudo allowing you to control your 3D avatar like a video game.
+
 </i>
