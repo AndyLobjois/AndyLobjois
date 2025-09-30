@@ -24,4 +24,7 @@
 > <ins>**Minois**</ins> <sup>2024-2025</sup> <br>
 > Plugin for Warudo allowing you to control your 3D avatar like a video game.
 
+> <ins>**ARKit Toolset**</ins> <sup>2025</sup> <br>
+> Blender paid addon helping you to create the 52 shapekeys required by ARKit.
+
 </i>
